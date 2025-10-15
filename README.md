@@ -1,6 +1,6 @@
 **STRIKE：面向多模态AI生成内容的零样本检测与隐私保护研究**
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![/img/1.png)
 
 **如果您发现这项工作对您的研究有用，请收藏我们的存储库。**
 
@@ -239,3 +239,4 @@ conda install -c conda-forge ruamel_yaml
 **可视化结果**
 
 ![placeholder](https://markdowntoword.io/placeholder.png)
+
