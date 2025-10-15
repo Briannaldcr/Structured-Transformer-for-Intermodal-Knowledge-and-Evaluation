@@ -14,7 +14,7 @@
 
 所提出的STRIKE系统框架如下：
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![placeholder](./img/2.png)
 
 **安装环境**
 
@@ -50,194 +50,17 @@ conda install -c conda-forge ruamel_yaml
 
 以下是统计数据和一些示例图像-文本对：
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![placeholder](./img/3.png)
 
-**原始**
-
-**篡改**
-
-**原始**
-
-**篡改**
-
-**换脸篡改**
+![placeholder](./img/5.png)
+![placeholder](./img/6.png)
 
 ![placeholder](https://markdowntoword.io/placeholder.png)
 
-**一名枪手从集会高处向男子演讲台开了数枪，子弹击中该男子右耳，男子满脸是血，随即撤离了演讲台。         **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**一名枪手从集会高处向男子演讲台开了数枪，子弹击中该男子右耳，男子满脸是血，随即撤离了演讲台。         **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**刘德华，1961年9月27日出生于中国香港，是一名著名的男演员、歌手 、制片人和作词人。  **
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**刘德华，1961年9月27日出生于中国香港，是一名著名的男演员、歌手 、制片人和作词人。  **
-
-**          **
-
-**人脸属性篡改**
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**成龙穿着浅色外套，双手放在头上，表情显得有些困惑与惊讶。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**成龙穿着浅色外套，双手放在头上，表情显得有些困惑与惊讶。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**甲亢哥的笑容感染力十足，给人一种积极向上、乐观开朗的感觉。**
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**甲亢哥的笑容感染力十足，给人一种积极向上、乐观开朗的感觉。**
-
-**文本替换篡改**
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**京东老总刘强东请京东外卖骑手吃火锅。 **
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**厨师刘强东向骑手 “徒弟” 传授火锅秘籍。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**钟南山院士接受记者采访，强调疫情期间戴口罩、勤洗手、讲卫生的重要性。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**“著名教练钟南山，正接受采访复盘赛事，他强调：球员要是都像我戴这眼镜，防守时眼神绝对犀利，对方想传球都难！”**
-
-**          **
-
-**文本属性篡改**
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**何炅觉得黄磊的这碗米稀不好吃。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**何炅觉得黄磊的这碗米稀很好吃。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**钢琴家郎朗很享受弹奏钢琴时的快乐。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**钢琴家郎朗不享受弹奏钢琴时的快乐。**
-
-**          **
-
-**音频语义篡改**
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**每次比赛，我都会全力以赴去接球。  **
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**每场比赛，我都不尽力接球，早早收工离开。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**梅拉尼娅，他们俩是我的好朋友克林顿和希拉里。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**梅拉尼娅，他们俩是我的仇人克林顿和希拉里。**
-
-**          **
-
-**人脸+文本篡改**
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**钢铁侠扮演者是美国的小罗伯特唐尼。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**钢铁侠扮演者是美国的埃隆马斯克。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**两个儿子的离世一直困扰着Rafat和Ferial。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**两个儿子的爱一直鼓励着Rafat和Ferial。**
-
-**          **
-
-**人脸+音频语义篡改**
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**我和郭德纲是多年的相声搭档，主持过很多相声演出。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**我和赵本山是多年的相声搭档，主持过很多相声演出。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**这一别，不知何日才能归来，心中满是离愁。**
-
-**          **
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-**这一别，不问归期，只享受离家的自由与欢乐。**
-
-**          **
-
-图2.2  MMNF数据集实例样本
 
 **可视化结果**
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![placeholder](![placeholder](./img/4.png))
+
 
 
