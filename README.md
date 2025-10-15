@@ -55,12 +55,10 @@ conda install -c conda-forge ruamel_yaml
 ![placeholder](./img/5.png)
 ![placeholder](./img/6.png)
 
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-
 **可视化结果**
 
-![placeholder](![placeholder](./img/4.png))
+![placeholder](./img/4.png))
+
 
 
 
